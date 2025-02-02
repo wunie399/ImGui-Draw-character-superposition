@@ -92,7 +92,7 @@ int main() {
 ### **Usage in a Loop**
 
 ```cpp
-#include "your_library.h" // Replace with the actual library header file
+#include "YC.h" // Replace with the actual library header file
 
 std::vector<Point> storage;
 while (true) {
