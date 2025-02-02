@@ -3,9 +3,7 @@
 ### **Purpose**
 This library is designed for automatic stacking and rendering of strings in an IMGUI environment. It prevents overlapping of text strings at the same planar coordinates, which can cause display issues. By default, it stacks text upwards automatically, adjusting positions based on the size of the text. For detailed implementation, refer to the reference code provided.
 
-For Chinese documentation, click [here](README.zh-CN.md).
-
----
+中文说明请戳[这里](README.zh-CN.md)
 
 ## **How to Use**
 
