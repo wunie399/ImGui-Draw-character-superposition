@@ -80,7 +80,7 @@ int main() {
 ### 循环中使用
 
 ```cpp
-#include "your_library.h" // 请替换为实际的库头文件
+#include "YC.h" // 请替换为实际的库头文件
 
 std::vector<Point> 寄存空间;
 while (true) {
@@ -102,7 +102,7 @@ while (true) {
 ### 非循环使用
 
 ```cpp
-#include "your_library.h" // 请替换为实际的库头文件
+#include "YC.h" // 请替换为实际的库头文件
 
 std::vector<Point> 寄存空间;
 
