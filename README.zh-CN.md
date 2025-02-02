@@ -1,7 +1,7 @@
 # 文本区域管理库
 用于IMGUI字串自动叠加渲染，防止两串文字叠加在同一平面坐标上显示不清晰，默认为向上自动叠加，根据文字大小自动调整，具体请使用参考代码进行标注。
 
-中文说明请戳[这里](README.zh-CN.md)
+Please click [here](README.md) for the English description.
 
 ## How to use
 1.克隆此项目
